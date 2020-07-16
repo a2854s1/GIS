@@ -1,3 +1,9 @@
+# Personal Introduction
+I am Frank, who is a Geomatics graduate with Computer Science Minor from the University of Waterloo in Canada. 
+I have over four years of experience in performing spatial data manipulation, analysis and visualization using ArcGIS and Python.
+I also possess knowledge in using QGIS, FME, SQL, JavaScript and Microsoft Office Suites (Word, PowerPoint, Excel, Access).
+Please feel free to contact me for any potential discussions regarding potential career opportunities.
+
 # GIS
 This is a package showing what GIS-related work I have completed in my university life and my after-grad life.
 
