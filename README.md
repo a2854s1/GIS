@@ -1,3 +1,6 @@
+# Featured Video
+[![Alt text](https://img.youtube.com/vi/wTqrD6s8BSI/0.jpg)](https://www.youtube.com/watch?v=wTqrD6s8BSI)
+
 # Personal Introduction
 I am Frank, who is a Geomatics graduate with Computer Science Minor from the University of Waterloo in Canada. 
 I have over four years of experience in performing spatial data manipulation, analysis and visualization using ArcGIS and Python.
