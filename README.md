@@ -22,4 +22,4 @@ This is a package showing what GIS-related work I have completed in my universit
 Email: ky2chau@uwaterloo.ca
 LinkedIn: https://www.linkedin.com/in/kin-yu-chau/
 
-# Last Updated: July 16, 2020
+# Last Updated: July 17, 2020
