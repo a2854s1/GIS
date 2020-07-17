@@ -16,6 +16,7 @@ This is a package showing what GIS-related work I have completed in my universit
 # Work Categories
 1. Maps - highlight the key maps that I have been created these few years.
 2. GIS Presentations - include all the GIS presentations I used to help GIS beginners to more easily understand GIS concepts.
+3. GIS Tutorial - include the GIS tutorials I have created.
 
 # Contact Information
 Email: ky2chau@uwaterloo.ca
