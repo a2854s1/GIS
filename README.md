@@ -9,7 +9,7 @@ I have over four years of experience in performing spatial data manipulation, an
 I also possess knowledge in using QGIS, FME, SQL, JavaScript and Microsoft Office Suites (Word, PowerPoint, Excel, Access).
 Please feel free to contact me for any potential discussions regarding potential career opportunities.
 
-# GIS
+# GIS Repository Introduction
 This is a package showing what GIS-related work I have completed in my university life and my after-grad life.
 
 # Recent Updates
