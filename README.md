@@ -1,6 +1,8 @@
 # Featured Video
 [![Alt text](https://img.youtube.com/vi/wTqrD6s8BSI/0.jpg)](https://www.youtube.com/watch?v=wTqrD6s8BSI)
 
+For more information about the tutorial materials mentioned in the video, please feel free to check out the GIS Tutorials branch under this repository. Thanks!
+
 # Personal Introduction
 I am Frank, who is a Geomatics graduate with Computer Science Minor from the University of Waterloo in Canada. 
 I have over four years of experience in performing spatial data manipulation, analysis and visualization using ArcGIS and Python.
