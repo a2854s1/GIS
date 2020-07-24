@@ -13,7 +13,7 @@ Please feel free to contact me for any potential discussions regarding potential
 This is a package showing what GIS-related work I have completed in my university life and my after-grad life.
 
 # Recent Updates
-2020 has been a unique year with COVID-19. Despite the unusual challenging times, I still keep on learning new GIS techniques at home virtually. This page documents my GIS products made during the summer period. Please feel free to take a look and ask me if you have any questions.
+2020 has been a unique year with COVID-19. Despite the unusual challenging times, I still keep on learning new GIS techniques at home virtually. This page documents my GIS products made during the summer period and also during my university years. Please feel free to take a look and ask me if you have any questions.
 
 # Work Categories
 1. Maps - highlight the key maps that I have been created these few years.
@@ -24,4 +24,4 @@ This is a package showing what GIS-related work I have completed in my universit
 Email: ky2chau@uwaterloo.ca
 LinkedIn: https://www.linkedin.com/in/kin-yu-chau/
 
-# Last Updated: July 17, 2020
+# Last Updated: July 24, 2020
