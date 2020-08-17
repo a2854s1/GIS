@@ -1,5 +1,5 @@
 # Featured Map
-This is a web map that I recently created showing the distributions of income and robbery occurrences in the City of Toronto.
+This is a web map that I recently created showing the distributions of income and robbery occurrences in the City of Toronto:
 https://kinyuchau.carto.com/builder/3d41566d-5ae3-4f8e-866d-c0ed467aeddb/embed
 
 # Featured Video
