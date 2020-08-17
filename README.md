@@ -1,9 +1,6 @@
 # Featured Map
 This is a web map that I recently created showing the distributions of income and robbery occurrences in the City of Toronto.
-
-{google_map}60.1705,24.9384{/google_map}
-
-<iframe width="100%" height="520" frameborder="0" src="https://kinyuchau.carto.com/builder/3d41566d-5ae3-4f8e-866d-c0ed467aeddb/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+https://kinyuchau.carto.com/builder/3d41566d-5ae3-4f8e-866d-c0ed467aeddb/embed
 
 # Featured Video
 [![Alt text](https://img.youtube.com/vi/wTqrD6s8BSI/0.jpg)](https://www.youtube.com/watch?v=wTqrD6s8BSI)
