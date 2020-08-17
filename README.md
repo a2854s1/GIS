@@ -1,3 +1,8 @@
+# Featured Map
+This is a web map that I recently created showing the distributions of income and robbery occurrences in the City of Toronto.
+
+<iframe width="100%" height="520" frameborder="0" src="https://kinyuchau.carto.com/builder/3d41566d-5ae3-4f8e-866d-c0ed467aeddb/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
 # Featured Video
 [![Alt text](https://img.youtube.com/vi/wTqrD6s8BSI/0.jpg)](https://www.youtube.com/watch?v=wTqrD6s8BSI)
 
@@ -24,4 +29,4 @@ This is a package showing what GIS-related work I have completed in my universit
 Email: ky2chau@uwaterloo.ca
 LinkedIn: https://www.linkedin.com/in/kin-yu-chau/
 
-# Last Updated: July 24, 2020
+# Last Updated: August 17, 2020
